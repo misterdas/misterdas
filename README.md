@@ -21,12 +21,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misterdas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" height="150" />
-</p>
-
 ---
 
 <p align="center"><sub>Shipping small things that work.</sub></p>
