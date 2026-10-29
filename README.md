@@ -24,8 +24,7 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misterdas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misterdas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=misterdas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" height="150" />
 </p>
 
 ---
