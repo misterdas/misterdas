@@ -1,21 +1,29 @@
-<h1 align="center">Gopal</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Gopal&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Trader+%26+Builder&descAlignY=58&descSize=18" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Trader+%26+Builder;Automation+%7C+Backtesting+%7C+Live+Execution;Shipping+small+things+that+work" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2575FC&center=true&vCenter=true&width=520&lines=Automation+%7C+Backtesting+%7C+Live+Execution;Shipping+small+things+that+work" alt="Typing" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Upstox-1E88E5?style=flat-square&logo=upstox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=misterdas&label=views&color=58A6FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=misterdas&label=views&color=2575fc&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=misterdas&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---
 
 <p align="center"><sub>Shipping small things that work.</sub></p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%" />
+</div>
